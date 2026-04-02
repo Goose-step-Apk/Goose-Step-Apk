@@ -1,0 +1,8 @@
+{
+  "name": "AI Dubber Ultimate Khmer",
+  "description": "Professional AI-powered video dubbing tool specifically optimized for Khmer language, featuring instant translation and high-quality TTS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
